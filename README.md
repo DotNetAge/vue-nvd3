@@ -5,6 +5,14 @@ The NVD3 chart library for Vue.
 > This library is just in beta version. It's only using in my project i will add the tests and examples in the future versions.
 
 
+## Install
+
+```
+$ npm install vue-nvd3
+```
+
+[Live Demo](https://dotnetage.github.io/vue-nvd3)
+
 ## Components in this library
 
 Tag | Component 
