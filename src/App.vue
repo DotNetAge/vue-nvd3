@@ -62,7 +62,7 @@
   export default {
     name: 'app',
     mounted () {
-
+      this.$router.push({name:'BarChart'})
     }
   }
 </script>
